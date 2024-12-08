@@ -1,0 +1,206 @@
+{
+    "about_me": {
+        "summary": "I am a detail-oriented Frontend Developer with over 5 years of experience in building engaging, responsive websites and applications. My expertise lies in HTML, CSS, JavaScript, TypeScript, and React JS, with a strong focus on user experience. I have successfully designed and implemented landing pages and websites, consistently delivering quality solutions that meet user needs. In addition to my front-end development skills, I have hands-on experience in Node.js technologies and backend development, including creating small-scale APIs with Spring Boot and MySQL. Currently, I am expanding my expertise as a MERN Stack Developer, combining my knowledge of frontend frameworks with backend development to build full-stack applications. I am proficient in tools like Jira and Bitbucket and work well in both independent and collaborative environments. I am passionate about excellence and teamwork, always striving to exceed expectations while delivering high-quality software solutions.",
+        "skills": "React.js, Redux, JavaScript, TypeScript, HTML5, CSS, Spring Boot, MySQL"
+    },
+    "experience": [
+        {
+            "company": "TalentNeuron (Separated from Gartner)",
+            "role": "Software Engineer",
+            "date_range": "January 2023 - Present",
+            "accomplishments": [
+                "Led a team of 2 developers within the customer retention group, focusing on frontend solutions and driving initiatives that improved customer satisfaction and retention metrics.",
+                "Collaborated closely with customers to gather feedback and refine features, aligning product development with user needs.",
+                "Designed and implemented a new EVP feature for the Plan application, enhancing user engagement and increasing the overall value of the application.",
+                "Utilized SASS and other CSS methodologies to ensure code maintainability and consistency across large-scale applications.",
+                "Conducted thorough code reviews to ensure code quality, adherence to standards, and alignment with project goals.",
+                "Employed Agile practices such as Scrum and Kanban to manage projects, track progress, and collaborate with cross-functional teams.",
+                "Developed dashboards in Dynatrace for root cause analysis and created comprehensive RCA documents to resolve issues effectively.",
+                "Streamlined local environment setups through detailed workflow and setup procedure documentation."
+            ],
+            "technologies": [
+                "JavaScript",
+                "HTML5",
+                "CSS",
+                "TypeScript",
+                "Material-UI",
+                "React",
+                "Redux.js",
+                "Google Tag Manager",
+                "Storybook",
+                "React Testing Library",
+                "Spring Boot",
+                "Java",
+                "MySQL",
+                "User Stored Procedure",
+                "Dynatrace"
+            ]
+        },
+        {
+            "company": "Gartner",
+            "role": "Software Engineer",
+            "date_range": "October 2021 - January 2023",
+            "accomplishments": [
+                "Developed reusable components in Storybook using Material-UI, ensuring consistent design and simplifying maintenance.",
+                "Conducted performance analysis with Lighthouse, implemented lazy loading, minimized re-renders, and memoized components, improving app efficiency by 20%.",
+                "Worked with the design team to convert complex design specs into functional, accessible, and user-friendly applications.",
+                "Ensured cross-browser compatibility and optimized performance across multiple devices and platforms.",
+                "Developed and maintained Docker images, streamlining deployment and reducing maintenance overhead.",
+                "Worked within Agile frameworks, delivering projects on time and meeting sprint goals."
+            ],
+            "technologies": [
+                "JavaScript",
+                "HTML5",
+                "CSS",
+                "TypeScript",
+                "Material-UI",
+                "React",
+                "Redux",
+                "Google Maps API",
+                "Storybook",
+                "React Testing Library"
+            ]
+        },
+        {
+            "company": "GoodWorkLabs",
+            "role": "Associate Software Engineer",
+            "date_range": "July 2019 - October 2021",
+            "accomplishments": [
+                "Focused on developing responsive, scalable user interfaces that met both functional and user experience requirements.",
+                "Created custom data visualization components using HighCharts for enhanced UI features.",
+                "Integrated third-party APIs and services to expand website functionality and improve the user experience.",
+                "Optimized websites using SEO best practices to enhance organic traffic and search engine visibility.",
+                "Implemented progressive web app features for improved user experience on mobile devices.",
+                "Utilized modern JavaScript frameworks like React and Angular to develop dynamic, interactive web applications."
+            ]
+        }
+    ],
+    "skills": {
+        "core_technologies": [
+            "React JS",
+            "Redux",
+            "JavaScript",
+            "TypeScript",
+            "HTML5",
+            "CSS",
+            "Spring Boot",
+            "MySQL"
+        ],
+        "tools_libraries": [
+            "React Testing Library (JEST)",
+            "Styled Components",
+            "Storybook",
+            "Material UI",
+            "Pullstate",
+            "React-Query",
+            "GTM",
+            "HighCharts"
+        ],
+        "familiar_with": [
+            "Node JS",
+            "Stored Procedures",
+            "Dynatrace",
+            "AWS CloudWatch",
+            "Jenkins Deployment",
+            "AWS"
+        ]
+    },
+    "projects": [
+        {
+            "name": "TalentNeuron",
+            "role": "Software Engineer",
+            "date_range": "October 2021 - Present",
+            "description": "TalentNeuron is a global labor market and talent intelligence platform that captures 2 billion data points from more than 40 unique countries and 42 regions. It aggregates job postings from a variety of credible sources and provides in-depth labor market insights.",
+            "experience": [
+                "Developed reusable components in Storybook using Material-UI, ensuring consistent design and ease of maintenance.",
+                "Conducted performance analysis with Lighthouse, implemented lazy loading, minimized re-renders, and memoized components, achieving a 20% increase in app efficiency.",
+                "Worked closely with the design team to convert complex design specs into functional, accessible, and user-friendly applications.",
+                "Utilized Agile methodologies (Scrum, Kanban) to manage projects and ensure timely delivery.",
+                "Developed and maintained Docker images for software applications, streamlining deployment and reducing maintenance overhead.",
+                "Implemented cross-browser compatibility and optimized websites for performance across multiple devices and platforms.",
+                "Developed and maintained documentation for web applications and components."
+            ],
+            "technologies": [
+                "React.js",
+                "JavaScript",
+                "TypeScript",
+                "HTML/CSS",
+                "Stored Procedures",
+                "Material-UI",
+                "Storybook",
+                "Jenkins",
+                "Amazon CloudWatch",
+                "Dynatrace",
+                "Spring Boot",
+                "MySQL",
+                "Node.js"
+            ]
+        },
+        {
+            "name": "Gym Fit Partner Portal (Digital Platform for Gym Centers)",
+            "role": "Front-End Developer",
+            "date_range": "April 2021 - Present",
+            "description": "The Gym Fit Partner Portal is a digital platform that helps gym managers onboard new customers, offer personalized deals, and manage workout slots and equipment assignments. The portal allows gym managers to automate customer bookings and equipment management.",
+            "experience": [
+                "Developed dynamic and responsive features using React and Node.js.",
+                "Integrated Redux for state management.",
+                "Ensured that the platform was scalable with server-side rendering for improved performance and SEO."
+            ],
+            "technologies": [
+                "React JS",
+                "Node JS",
+                "Redux",
+                "Antd",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "Server-side Rendering"
+            ]
+        },
+        {
+            "name": "AWAK Digital Portal for Kidney Dialysis Patients",
+            "role": "Front-End Developer",
+            "date_range": "September 2020 - April 2021",
+            "description": "AWAK provides an innovative solution to kidney dialysis patients by offering an alternative to costly and time-consuming clinic visits. The portal provides easy access to dialysis treatment schedules and services.",
+            "experience": [
+                "Developed an intuitive user interface using React JS and Material-UI.",
+                "Implemented a robust booking system to manage patient appointments and treatment schedules."
+            ],
+            "technologies": [
+                "React JS",
+                "Node JS",
+                "Redux",
+                "Material-UI",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "GoodWorks HQ - Coworking Platform: Asset and Lease Management",
+            "role": "Front-End Developer",
+            "date_range": "March 2020 - August 2020",
+            "description": "This platform helps coworking space providers manage their assets and leases digitally, offering tools for asset tracking, analytics, and workflow management. The platform enables effective asset health management and resource utilization.",
+            "experience": [
+                "Built a responsive and interactive platform using React JS and Redux.",
+                "Integrated analytics features to monitor asset health, reduce costs, and improve productivity.",
+                "Developed workflow tools for asset revaluation to streamline staff operations."
+            ],
+            "technologies": [
+                "React JS",
+                "Node JS",
+                "Redux",
+                "Material-UI",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ],
+    "contact_info": {
+        "email": "bharath@example.com",
+        "linkedin": "https://www.linkedin.com/in/bharath-s-07a202145/",
+        "github": "https://github.com/bharathsportfolio"
+    }
+}
